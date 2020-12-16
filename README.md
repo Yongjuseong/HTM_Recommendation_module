@@ -64,5 +64,5 @@ When an error occurs
 Based on the server source file that launches the entire app, you need to modify the address to be relative or absolute at all.
 
 Ex) Output
-https://github.com/Yongjuseong/HTM_Recommendation_module/issues/1#issue-768413254
+![25_실행결과](https://user-images.githubusercontent.com/50524284/102301248-c1dd8b00-3f99-11eb-968e-82026fe9de57.JPG)
 
