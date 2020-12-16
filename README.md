@@ -63,3 +63,6 @@ When an error occurs
 
 Based on the server source file that launches the entire app, you need to modify the address to be relative or absolute at all.
 
+Ex) Output
+https://github.com/Yongjuseong/HTM_Recommendation_module/issues/1#issue-768413254
+
